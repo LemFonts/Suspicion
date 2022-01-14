@@ -1,6 +1,8 @@
 # Suspiscion
 ## Designed by [Kai-Cong Fam](https://www.instagram.com/kai.fam/)
 
+![Suspicion sample](https://lemfont.xyz/wp-content/uploads/2022/01/suspicion_01-2048x1366.jpg)
+
 Suspicion is a typeface designed based on reflections on one’s ideas of the past and future. The thoughts of the past and future are extrapolated based on Lem’s writing (mainly Solaris and The Star Diaries); where the past is presented as a ‘primitive’ and the future as ‘clairvoyant’. Suspicion Bold represents the past, while Suspicion Regular represents the future. A primitive past (or more specifically, primitive memory) is depicted as an impression of what happened, therefore Suspicion Bold is designed to be blobby, blocky shapes that give the impression of letters. Suspicion Regular on the other hand is designed to read more immediately as letters. The design is meant to hold a tension between simplicity and complication, as a way to illustrate the idea that the future is still something to decode. Ultimately, the past and the future demands some level of suspicion.
 
 ### Defekt details
